@@ -1,0 +1,6 @@
+tensorflow
+numpy
+prometheus-client
+tensorboard
+protobuf
+grpcio

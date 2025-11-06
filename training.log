@@ -1,0 +1,5 @@
+2025-11-06 19:22:26,402 - INFO - Epoch 1: Loss=0.2568, Accuracy=0.9264
+2025-11-06 19:22:30,369 - INFO - Epoch 2: Loss=0.1102, Accuracy=0.9679
+2025-11-06 19:22:35,079 - INFO - Epoch 3: Loss=0.0767, Accuracy=0.9770
+2025-11-06 19:22:39,444 - INFO - Epoch 4: Loss=0.0576, Accuracy=0.9820
+2025-11-06 19:22:43,699 - INFO - Epoch 5: Loss=0.0456, Accuracy=0.9861
